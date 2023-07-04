@@ -14,14 +14,12 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
-  - [Deployment](#deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -32,7 +30,7 @@
 
 # 📖 Hello Microverse <a name="about-project"></a>
 
-**Hello Microverse** is a project to say hello to the Miroverse Wolrd.
+- HELLO MICROVERSE is my first microverse project. In this project, we use HTML and CSS by adding an index and style file, we also used linters to analyzes our source code to flag programming errors, bugs, stylistic errors, and suspicious constructs.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -48,13 +46,9 @@
 
 ### Key Features <a name="key-features"></a>
 
--Displays a greating to the microverse world
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- Working on progress...
+- Set up the linter for the project for writing clean code👌
+- Add the test file and node modules at the .gitignore file🚀
+- Add the styling color using CSS
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -106,14 +100,6 @@ To run the project,
    1. npx hint .
    2. npx stylelint "**/*.{css,scss}"
 ```
-
-### Deployment
-
-```sh
-   Working on progress...
-```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 👥 Author <a name="authors"></a>
 
